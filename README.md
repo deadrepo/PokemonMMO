@@ -6,7 +6,7 @@
 
 Get Files
 -------------------
-![](images/image.jpg)
+![](pokemon.jpg)
 
 Get Files
 -------------------
