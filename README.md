@@ -4,7 +4,7 @@
 [PokemonMMO] PokemonMMO installer + ROMS
 -------------------
 
-Get Files
+Gameplay
 -------------------
 ![](pokemon.jpg)
 
